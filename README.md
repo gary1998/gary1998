@@ -22,7 +22,10 @@
 - ⚡ Fun fact **I don't limit myself to any specific development area!**  
   
 ### Blogs posts  
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+- [Mastering JakartaEE &lpar;JavaEE&rpar;: A Comprehensive Guide to Build a Feature-Packed REST Server](https://medium.com/@gouravgoswami48/mastering-jakartaee-javaee-a-comprehensive-guide-to-build-a-feature-packed-rest-server-4d652a531e26?source=rss-62f1139d87fb------2)
+- [Classical SVM vs Quantum SVM](https://medium.com/@gouravgoswami48/classical-svm-vs-quantum-svm-8e4411faafc8?source=rss-62f1139d87fb------2)
+- [Goroutines in GoLang: Hacks to Conquer Concurrency Like a Boss!](https://medium.com/@gouravgoswami48/goroutines-in-golang-hacks-to-conquer-concurrency-like-a-boss-733e733a00f1?source=rss-62f1139d87fb------2)
 <!-- BLOG-POST-LIST:END -->  
   
 <h3 align="left">Connect with me:</h3>  
