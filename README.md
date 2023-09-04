@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🙏🏻 I'm Gaurav Goswami (Gary)</h1>  
-<h3 align="center">I can't summarize what I do, but whatever I do is always perfect or a work in progress.🥇</h3>  
+<h3 align="center">I can't summarize what I do, but whatever I do is always perfect or a work in progress 🥇</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gary1998&label=Profile%20views&color=0e75b6&style=flat" alt="gary1998" /> </p>  
   
