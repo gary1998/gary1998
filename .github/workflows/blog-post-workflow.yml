@@ -5,6 +5,8 @@ on:
     workflow_dispatch:
 jobs: 
     update-readme-with-blog: 
+        env:
+            GIT_TOKEN:    ${{ secrets.GH_TOKEN_ALL }}
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
