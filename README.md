@@ -23,10 +23,10 @@
   
 ### Blogs posts  
 <!-- BLOG-POST-LIST:START -->
+- [Level Up Your DevSecOps with Tekton: A Hands-On Guide](https://medium.com/@gouravgoswami48/level-up-your-devsecops-with-tekton-a-hands-on-guide-1d33202bc880?source=rss-62f1139d87fb------2)
+- [Unraveling GitOps, DevSecOps, and TechOps: A Guide to Modern Tech Superpowers](https://medium.com/@gouravgoswami48/unraveling-gitops-devsecops-and-techops-a-guide-to-modern-tech-superpowers-668b3dd20a50?source=rss-62f1139d87fb------2)
 - [Choosing the Right Database for Your Project: A Developer’s Comprehensive Guide](https://medium.com/@gouravgoswami48/choosing-the-right-database-for-your-project-a-developers-comprehensive-guide-c9e91f87f3ca?source=rss-62f1139d87fb------2)
 - [Mastering JakartaEE &lpar;JavaEE&rpar;: A Comprehensive Guide to Build a Feature-Packed REST Server](https://medium.com/@gouravgoswami48/mastering-jakartaee-javaee-a-comprehensive-guide-to-build-a-feature-packed-rest-server-4d652a531e26?source=rss-62f1139d87fb------2)
-- [Classical SVM vs Quantum SVM](https://medium.com/@gouravgoswami48/classical-svm-vs-quantum-svm-8e4411faafc8?source=rss-62f1139d87fb------2)
-- [Goroutines in GoLang: Hacks to Conquer Concurrency Like a Boss!](https://medium.com/@gouravgoswami48/goroutines-in-golang-hacks-to-conquer-concurrency-like-a-boss-733e733a00f1?source=rss-62f1139d87fb------2)
 <!-- BLOG-POST-LIST:END -->  
   
 <h3 align="left">Connect with me:</h3>  
