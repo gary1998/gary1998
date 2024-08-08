@@ -23,10 +23,10 @@
   
 ### Blogs posts  
 <!-- BLOG-POST-LIST:START -->
+- [Building a Universal Generative AI Chatbot Solution: From Data Ingestion to Deployment](https://medium.com/@gouravgoswami48/building-a-universal-generative-ai-chatbot-solution-from-data-ingestion-to-deployment-938078646eeb?source=rss-62f1139d87fb------2)
 - [Mastering Feature Engineering: Crafting Brilliance in Machine Learning](https://medium.com/@gouravgoswami48/mastering-feature-engineering-crafting-brilliance-in-machine-learning-0710d05a714c?source=rss-62f1139d87fb------2)
 - [Battle of Protocols: gRPC &amp; Protobuf vs. REST &amp; JSON Showdown!](https://medium.com/@gouravgoswami48/battle-of-protocols-grpc-protobuf-vs-rest-json-showdown-5a61dcc7ac4f?source=rss-62f1139d87fb------2)
 - [Level Up Your DevSecOps with Tekton: A Hands-On Guide](https://medium.com/@gouravgoswami48/level-up-your-devsecops-with-tekton-a-hands-on-guide-1d33202bc880?source=rss-62f1139d87fb------2)
-- [Unraveling GitOps, DevSecOps, and TechOps: A Guide to Modern Tech Superpowers](https://medium.com/@gouravgoswami48/unraveling-gitops-devsecops-and-techops-a-guide-to-modern-tech-superpowers-668b3dd20a50?source=rss-62f1139d87fb------2)
 <!-- BLOG-POST-LIST:END -->  
   
 <h3 align="left">Connect with me:</h3>  
