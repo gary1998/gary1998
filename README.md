@@ -23,10 +23,10 @@
   
 ### Blogs posts  
 <!-- BLOG-POST-LIST:START -->
+- [How to Think Like a Customer While Writing Code](https://medium.com/@gouravgoswami48/how-to-think-like-a-customer-while-writing-code-d276e43c7786?source=rss-62f1139d87fb------2)
 - [The End of the Click: Why Websites Are About to Become Obsolete](https://medium.com/@gouravgoswami48/the-end-of-the-click-why-websites-are-about-to-become-obsolete-c7f8da6739fb?source=rss-62f1139d87fb------2)
 - [Building a Universal Generative AI Chatbot Solution: From Data Ingestion to Deployment](https://medium.com/@gouravgoswami48/building-a-universal-generative-ai-chatbot-solution-from-data-ingestion-to-deployment-938078646eeb?source=rss-62f1139d87fb------2)
 - [Mastering Feature Engineering: Crafting Brilliance in Machine Learning](https://medium.com/@gouravgoswami48/mastering-feature-engineering-crafting-brilliance-in-machine-learning-0710d05a714c?source=rss-62f1139d87fb------2)
-- [Battle of Protocols: gRPC &amp; Protobuf vs. REST &amp; JSON Showdown!](https://medium.com/@gouravgoswami48/battle-of-protocols-grpc-protobuf-vs-rest-json-showdown-5a61dcc7ac4f?source=rss-62f1139d87fb------2)
 <!-- BLOG-POST-LIST:END -->  
   
 <h3 align="left">Connect with me:</h3>  
