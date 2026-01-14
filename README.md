@@ -7,17 +7,17 @@
   
 <p align="left"> <a href="https://twitter.com/gary_1998_" target="blank"><img src="https://img.shields.io/twitter/follow/gary_1998_?logo=twitter&style=for-the-badge" alt="gary_1998_" /></a> </p>  
   
-- 🌱 I’m currently learning **Java Spring**  
+- 🌱 I’m currently learning **Generative AI**  
   
 - 👨‍💻 All of my projects are available at [https://github.com/gary1998](https://github.com/gary1998)  
   
 - 📝 I regularly write articles on [https://medium.com/@gouravgoswami48](https://medium.com/@gouravgoswami48)  
   
-- 💬 Ask me about **go, nodejs, jave-ee (jakarta-ee)**  
+- 💬 Ask me about **rag, agentic-ai, nodejs, go, python, java**  
   
 - 📫 How to reach me **gouravgoswami48@gmail.com**  
   
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g_2izGAuqBhyhdGIf3krrK-bzYt_Q8uH/view?usp=sharing](https://drive.google.com/file/d/1g_2izGAuqBhyhdGIf3krrK-bzYt_Q8uH/view?usp=sharing)  
+- 📄 Know about my experiences [https://gary1998.github.io/resume/gaurav_goswami_polyglot.pdf](https://gary1998.github.io/resume/gaurav_goswami_polyglot.pdf)  
   
 - ⚡ Fun fact **I don't limit myself to any specific development area!**  
   
